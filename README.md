@@ -1,1 +1,1 @@
-# mc-WoodCutter-by-dapenop
+# WoodCutter datapack, +527 recipes
