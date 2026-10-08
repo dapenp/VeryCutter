@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#minecraft:crimson_stems",
+  "result": {
+    "count": 8,
+    "id": "minecraft:stick"
+  }
+}
